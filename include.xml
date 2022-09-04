@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<dependency name="webview" path="dependencies/webview" if="android"/>
+</extension>
