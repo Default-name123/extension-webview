@@ -44,5 +44,5 @@ WebView.onURLChanging = function(url:String)
 ### How to Install
 
 ```cmd
-haxelib git extension-webview https://github.com/jigsaw-4277821/extension-webview.git
+haxelib git extension-webview https://github.com/Default-name123/extension-webview.git
 ```
